@@ -1,4 +1,3 @@
-# Damage_Detection-Repair_Cost_Estimator-for-a-Car
 # 🤖 Accident Damage Detection and Repair Cost Estimation
 
 
@@ -94,8 +93,8 @@ The detected parts are highlighted in the image, and the system estimates repair
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sandirishiva/Damage_Detection-Repair_Cost_Estimator-for-a-Car.git
-   cd Damage_Detection-Repair_Cost_Estimator-for-a-Car
+   git clone https://github.com/sahilkhan-7/accident-damage-detection.git
+   cd accident-damage-detection
    ```
 
 2. **Install Required Packages**:
